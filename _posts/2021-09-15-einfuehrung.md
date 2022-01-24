@@ -1,5 +1,5 @@
 ---
-title: "Ready to rumble!"
+title: "Ready to Rumble!"
 date: 2021-09-15
 ---
 
@@ -13,5 +13,3 @@ date: 2021-09-15
 <p>Was ich weiterhin vom Modul erwarte ist, praktische Arbeit und viele Übungen. Viele Module waren bisher sehr Theorie lastig, ohne einen praktischen Bezog zu einem Berufsalltag zu haben. Wenn in ein Modul praktisch gearbeitet wurde, dann hatte es meiner Erfahrung nach entweder zu wenige oder einschränkende Übungen dazu, wie in SEM.</p>
 <p>Das Thema meines Praktikums war verschiedene Samplingmethoden zu vergleichen, um zu sehen ob gängige Auswahlverfahren ähnliche oder bessere Resultate erbringen würden als eine Zufallsauswahl. Die Samplings mussten von Hand gemacht werden, da der Bestand physisch vorhanden war. Das Thema, Samplings in einen Archivsystem durchzuführen, kam während des Praktikums auf. Mir wurde gezeigt, dass nach heutigen Mitteln ein Sampling in einem Archivsystem maschinell durchzuführen technisch nicht möglich ist und somit von Hand gemacht werden muss. Was ich mir wünschen würde, wäre mehr über Suchmaschinen und Metadaten zu lernen, um zu sehen, ob es hier einen Weg gibt Samplings automatisch durchzuführen.</p>
 <p>Ich nehme mir vor, in Zukunft die Berichte pünktlich raufzuladen, um so den Anhang nicht zu verlieren. So erspare ich mir Stress und graue Haare.</p>
-
-
