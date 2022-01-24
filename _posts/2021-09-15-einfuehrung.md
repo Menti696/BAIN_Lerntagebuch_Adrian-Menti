@@ -2,6 +2,7 @@
 title: "Ready to rumble!"
 date: 2021-09-15
 ---
+
 <p>Moin moin! Ich heisse euch Herzlich Willkommen in meinen ersten Beitrag zum Modul BAIN.</p>
 <p>Wo bin ich gestartet?</p>
 <p>Mein Name ist Adrian Menti, ich bin 28 Jahre Alt und wohne im Kanton Zug, Steinhausen. Ich habe die Fachmittelschule Zug und die Fachmaturität in Pädagogik absolviert. Danach habe anschliessend die Pädagogische Fachhochschule in Zug besucht und abgebrochen. Erste kleine Erfahrungen in UX habe ich während meines Praktikums und anschliessender Teilzeitanstellung bei Webdesign Oehler sammeln können. Anschliessend war ich sehr lange Zeit auf Jobsuche, bis ich wieder ein Studium an der PH Zug angefangen habe, welches ich wiederholt abgebrochen habe. Im selben Jahr fing ich das Studium an der FHGR im Herbstsemester 2018 an und anscheinend hat es bei mir geklickt, denn ich befinde mich gerade im siebten Semester. Nebenbei arbeite ich im Moment als Young and Urban Promoter, falls Einsätze zur Verfügung stehen.  Meine stärken liegen in der Psychologie und Interaktion mit Personen, weshalb ich in Zukunft in einem Bereich arbeiten möchte, in dem ich mit Personen interagieren kann. Zu dieser Zeit wegen Corona ein bisschen unglücklich.</p>
